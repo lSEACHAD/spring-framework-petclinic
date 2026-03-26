@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"C:/Users/marcu/OneDrive - Seachad/99 - AECF/Ejercicio/spring-framework-petclinic\" config user.name)",
+      "Bash(git -C \"C:/Users/marcu/OneDrive - Seachad/99 - AECF/Ejercicio/spring-framework-petclinic\" config user.email)"
+    ]
+  }
+}
